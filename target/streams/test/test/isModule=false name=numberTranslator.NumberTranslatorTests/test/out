@@ -1,0 +1,10 @@
+[0m[[0minfo[0m] [0m[32mNumberTranslatorTests:[0m[0m
+[0m[[0minfo[0m] [0m[32mNumberTranslator[0m[0m
+[0m[[0minfo[0m] [0m[32m- should throw an exception on a non-number input[0m[0m
+[0m[[0minfo[0m] [0m[32m- should throw an exception on an input longer than 9 digits[0m[0m
+[0m[[0minfo[0m] [0m[32m- should throw an exception on an empty input[0m[0m
+[0m[[0minfo[0m] [0m[32m- should correctly process 1-digit numbers[0m[0m
+[0m[[0minfo[0m] [0m[32m- should correctly process 2-digit numbers[0m[0m
+[0m[[0minfo[0m] [0m[32m- should correctly process 3-digit numbers[0m[0m
+[0m[[0minfo[0m] [0m[32m- should correctly process numbers in the thousands[0m[0m
+[0m[[0minfo[0m] [0m[32m- should correctly process numbers in the millions[0m[0m
